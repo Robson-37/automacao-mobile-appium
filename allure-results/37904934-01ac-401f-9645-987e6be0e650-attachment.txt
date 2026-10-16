@@ -1,0 +1,3 @@
+Iniciando: deveValidarCamposObrigatoriosDeLogin
+Classe: com.minsait.tests.LoginTest
+Descrição: Deve navegar até a tela de login pelo menu lateral e validar campos obrigatórios

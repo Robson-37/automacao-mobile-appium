@@ -1,0 +1,3 @@
+Iniciando: deveClicarNosElementosMapeados
+Classe: com.minsait.tests.LoginTest
+Descrição: Deve interagir com os elementos mapeados via XPath no catálogo
